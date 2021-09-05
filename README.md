@@ -47,3 +47,7 @@ About me:
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" alt="Visio">
 
 <img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="photoshop">
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yasha6081)
+
